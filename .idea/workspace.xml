@@ -5,15 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc5b2a66-3600-4acf-a5cf-6a3040dc3e18" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CallCommunication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CommunicationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CommunicationServiceFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EmailCommunication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TextCommunication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WhatsAppCommunication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommunicationService.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CommunicationService.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CallCommunication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CallCommunication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CommunicationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CommunicationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EmailCommunication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EmailCommunication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TextCommunication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TextCommunication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WhatsAppCommunication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WhatsAppCommunication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +45,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "/Users/dsaini/CommunicationService/src"
@@ -57,6 +61,23 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main.testCase2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CommunicationService" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="METHOD_NAME" value="testCase2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Main.testCase2" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
